@@ -1,0 +1,63 @@
+{
+    "name": "Fanart.tv",
+    "description": "Logos, Backgrounds, Posters and more for your TV, Movie and Music collections, API is used by xbmc, mediabrowser, mediaportal and plex among many others",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/781-fanart-tv.jpg",
+    "tags": [
+        "api provider",
+        "art",
+        "arts",
+        "entertainment",
+        "fan",
+        "have api",
+        "images",
+        "photos",
+        "televisions"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/fanart-tv\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Fanart.tv",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/781-fanart-tv.jpg",
+            "humanURL": "https:\/\/fanart.tv\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/fanart-tv-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/webservice.fanart.tv\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/fanart.tv\/feed\/"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/fanart.tv\/api-docs\/api-v3\/"
+        },
+        {
+            "type": "Donations",
+            "url": "https:\/\/fanart.tv\/contribute\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/#!\/fanartdottv"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/fanart.tv\/"
+        }
+    ]
+}
