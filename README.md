@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fanart.tv is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://fanart.tv/
+Fanart.tv provides a community-driven API delivering high‑quality fan artwork, posters, and logos for movies, TV shows, and music. The service aggregates user‑contributed images, offering endpoints to retrieve artwork by TMDB or IMDb identifiers. Documentation is hosted on Apiary, with API servers at webservice.fanart.tv. Developers can use personal client keys alongside project keys for access, and the API returns JSON metadata and image URLs for integration into media applications.
+
+**Areas:** Company · API · Media · Images · Movies · TV
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fanart.tv/)
+- [Documentation](https://fanarttv.docs.apiary.io/)
+- [Getting started](https://fanart.tv/2015/01/personal-api-keys/)
+- [API reference](https://fanarttv.docs.apiary.io/api-description-document)
+- [Support](https://discord.gg/r9VufRkt)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/fanart-tv/](https://apis.io/providers/fanart-tv/).
